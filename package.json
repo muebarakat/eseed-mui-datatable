@@ -1,6 +1,6 @@
 {
   "name": "eseed-mui-datatable",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "mui-datatable extended",
   "repository": {
     "type": "git",
@@ -17,8 +17,8 @@
   },
   "homepage": "https://github.com/muebarakat/eseed-mui-datatable#readme",
   "dependencies": {
-    "@material-ui/core": "^1.4.2",
-    "mui-datatables": "^2.0.0-beta-19",
+    "@material-ui/core": "^1.4.3",
+    "mui-datatables": "^2.0.0-beta-9",
     "react": "^16.4.2"
   }
 }
